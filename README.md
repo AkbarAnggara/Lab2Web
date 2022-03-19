@@ -57,6 +57,9 @@ Selanjutnya kita buat file baru yaitu CSS, untuk codingan CSS silahkan kalian ik
   7.Jika seperti gambar dibawah ini selamat maka kalian sudah berhasil membuat HTML dan CSS dasar<br>
     ![Screenshot_.png](Pic/Screenshot_.png)<br>
 
+Berikut adalah hasil akhir dari HTML dan CSS<br>
+![Screenshot_.png](Pic/Screenshot_.png)<br>
+
 ### Pertanyaan & Tugas<br>
 ![Screenshot_.png](Pic/Screenshot_.png)<br>
 
