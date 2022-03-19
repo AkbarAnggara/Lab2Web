@@ -55,4 +55,14 @@ Selanjutnya kita buat file baru yaitu CSS, untuk codingan CSS silahkan kalian ik
     ![Screenshot_.png](Pic/Screenshot_.png)<br>
   6.Setelah itu kita save dan kita buka kembali htmlnya<br>
   7.Jika seperti gambar dibawah ini selamat maka kalian sudah berhasil membuat HTML dan CSS dasar<br>
-    ![Screenshot_.png](Pic/Screenshot_.png)
+    ![Screenshot_.png](Pic/Screenshot_.png)<br>
+
+### Pertanyaan & Tugas<br>
+![Screenshot_.png](Pic/Screenshot_.png)<br>
+
+### Jawaban<br>
+![Screenshot_.png](Pic/Screenshot_.png)<br>
+
+
+Selamat kalian sudah menyelesaikan tugas praktikum 2 - Lab2Web - Pemrograman Web<br>
+###### By : BANGKIT AKBAR ANGGARA - 312010148 - TI.20.B1 
