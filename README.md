@@ -14,7 +14,7 @@ Berikut adalah HTMLnya atau kalian bisa mengaksesnya dengan mengklik disamping: 
 - Keterangan:<br>
   1.Pertama di bagian atas ini kita buat title atau judul pagenya<br>
     ![Screenshot_4.png](Pic/Screenshot_4.png)<br>
-  2.Selanjutnya kita buat header body nah jika tadi title untuk page, sementara header body untuk tulisan didalam htmlnya<br>
+  2.Selanjutnya kita buat header body nah jika tadi title untuk page, sementara header body untuk tulisan judul didalam htmlnya<br>
     ![Screenshot_.5png](Pic/Screenshot_5.png)<br>
   4.Lalu kita tambahkan link navigasi html lainnya, kalian juga bebas memberikan judul atau nama sesuka hati kalian<br>
     ![Screenshot_8.png](Pic/Screenshot_8.png)<br>
