@@ -7,7 +7,8 @@ Kelas : TI.20.B.1<br>
 ## Tugas<br>
 Berikut adalah tugas praktikum 2 dengan judul Lab2Web dari mata kuliah Pemrograman Web<br>
 ![Screenshot_1.png](Pic/Screenshot_1.png)<br>
-### HTML<br>
+
+## HTML<br>
 Berikut adalah HTMLnya atau kalian bisa mengaksesnya dengan mengklik disamping: [Click Here](CSS_Dasar.html)<br>
 ![Screenshot_2.png](Pic/Screenshot_2.png)<br>
 ![Screenshot_3.png](Pic/Screenshot_3.png)<br>
@@ -26,7 +27,7 @@ Berikut adalah HTMLnya atau kalian bisa mengaksesnya dengan mengklik disamping: 
 Berikut adalah gambar hasil dari html diatas<br>
 ![Screenshot_7.png](Pic/Screenshot_7.png)<br>
 
-### Mendeklarasikan CSS Internal & Menambahkan Inline CSS<br>
+## Mendeklarasikan CSS Internal & Menambahkan Inline CSS<br>
 Untuk menambahkan CSS Internal kalian bisa menambahkan codingan seperti gambar dibawah ini<br>
 ![Screenshot_11.png](Pic/Screenshot_11.png)<br>
 - Keterangan:<br>
@@ -43,7 +44,8 @@ Untuk menambahkan CSS Internal kalian bisa menambahkan codingan seperti gambar d
 
 Berikut adalah tampilan hasil dari mendeklarasikan CSS Internal<br>
 ![Screenshot_17.png](Pic/Screenshot_17.png)<br>
-### Membuat CSS Eksternal & Menambahkan CSS Selector<br>
+
+## Membuat CSS Eksternal & Menambahkan CSS Selector<br>
 Selanjutnya kita buat file baru yaitu CSS, untuk codingan CSS silahkan kalian ikuti seperti gambar dibawah ini<br>
 ![Screenshot_18.png](Pic/Screenshot_18.png)<br>
 - Keterangan:<br>
@@ -62,10 +64,10 @@ Selanjutnya kita buat file baru yaitu CSS, untuk codingan CSS silahkan kalian ik
 Berikut adalah hasil akhir dari HTML dan CSS<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 
-### Pertanyaan & Tugas<br>
+## Pertanyaan & Tugas<br>
 ![Screenshot_.png](Pic/Screenshot_.png)<br>
 
-### Jawaban<br>
+## Jawaban<br>
 ![Screenshot_.png](Pic/Screenshot_.png)<br>
 
 
