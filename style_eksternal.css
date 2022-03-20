@@ -12,6 +12,10 @@ nav .active,
 nav a:hover {
     background: #0B6B3A;
 }
+body{
+    background-image: url('bg.jpg');
+    color: #fff;
+}
 /* ID Selector */
 #intro {
     background: #418fb1;
