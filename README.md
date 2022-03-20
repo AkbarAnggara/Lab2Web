@@ -73,10 +73,10 @@ Berikut adalah hasil akhir dari HTML dan CSS Dasar<br>
 ![Screenshot_24.png](Pic/Screenshot_24.png)<br>
 
 2.Perbedaannya adalah jika kita hanya menggunakan h1{} maka akan merubah semua elemen yang berada di h1{} jika kita menggunakan #intro h1{} maka dia hanya akan merubah # intro saja<br>
-Jika kita menggunakan h1{}
+Jika kita menggunakan h1{}<br>
 ![Screenshot_27.png](Pic/Screenshot_27.png)<br>
 ![Screenshot_27.png](Pic/Screenshot_27.png)<br>
-Jika kita menggunakan #intro h1{}
+Jika kita menggunakan #intro h1{}<br>
 ![Screenshot_28.png](Pic/Screenshot_28.png)<br>
 ![Screenshot_29.png](Pic/Screenshot_29.png)<br>
 
