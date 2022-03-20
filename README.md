@@ -65,10 +65,36 @@ Berikut adalah hasil akhir dari HTML dan CSS Dasar<br>
 ![Screenshot_6.png](Pic/Screenshot_6.png)<br>
 
 ## Pertanyaan & Tugas<br>
-![Screenshot_.png](Pic/Screenshot_.png)<br>
+![Screenshot_25.png](Pic/Screenshot_25.png)<br>
 
 ## Jawaban<br>
-![Screenshot_.png](Pic/Screenshot_.png)<br>
+1.Disini saya akan menggunakan CSS Cheat Sheet dari file terpisah dengan menambahkan CSS Background image<br>
+![Screenshot_23.png](Pic/Screenshot_23.png)<br>
+![Screenshot_24.png](Pic/Screenshot_24.png)<br>
+
+2.Perbedaannya adalah jika kita hanya menggunakan h1{} maka akan merubah semua elemen yang berada di h1{} jika kita menggunakan #intro h1{} maka dia hanya akan merubah # intro saja<br>
+Jika kita menggunakan h1{}
+![Screenshot_27.png](Pic/Screenshot_27.png)<br>
+![Screenshot_27.png](Pic/Screenshot_27.png)<br>
+Jika kita menggunakan #intro h1{}
+![Screenshot_28.png](Pic/Screenshot_28.png)<br>
+![Screenshot_29.png](Pic/Screenshot_29.png)<br>
+
+3.Maka deklarasi yang akan ditampilkan adalah inline CSS berikut contoh inline CSS<br>
+![Screenshot_30.png](Pic/Screenshot_30.png)<br>
+![Screenshot_32.png](Pic/Screenshot_32.png)<br>
+Jika tidak ada inline CSS, maka dia akan menampilkan internal CSS berikut contoh internal CSS<br>
+![Screenshot_33.png](Pic/Screenshot_33.png)<br>
+![Screenshot_34.png](Pic/Screenshot_34.png)<br>
+Jika tidak ada internal CSS dan inline CSS, maka dia akan menampilkan eksternal CSS berikut contoh eksternal CSS<br>
+![Screenshot_31.png](Pic/Screenshot_31.png)<br>
+![Screenshot_35.png](Pic/Screenshot_35.png)<br>
+![Screenshot_36.png](Pic/Screenshot_36.png)<br>
+
+4.Deklarasi yang akan ditampilkan pada browser adalah CSS ID Selector, sebenarnya selector id hampir sama dengan class hanya saja bedanya id bersifat unik dan hanya boleh digunakan oleh satu elemen saja<br>
+![Screenshot_37.png](Pic/Screenshot_37.png)<br>
+![Screenshot_39.png](Pic/Screenshot_39.png)<br>
+![Screenshot_38.png](Pic/Screenshot_38.png)<br>
 
 
 Selamat kalian sudah menyelesaikan tugas praktikum 2 - Lab2Web - Pemrograman Web<br>
