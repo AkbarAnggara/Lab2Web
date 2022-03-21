@@ -46,7 +46,7 @@ Berikut adalah tampilan hasil dari mendeklarasikan CSS Internal<br>
 ![Screenshot_17.png](Pic/Screenshot_17.png)<br>
 
 ## Membuat CSS Eksternal & Menambahkan CSS Selector<br>
-Selanjutnya kita buat file baru yaitu CSS, untuk codingan CSS silahkan kalian ikuti seperti gambar dibawah ini<br>
+Selanjutnya kita buat file baru yaitu CSS, untuk codingan CSS silahkan kalian ikuti seperti gambar dibawah ini atau kalian bisa mengaksesnya dengan megklik disamping [Click Here](style_eksternal.css)<br>
 ![Screenshot_18.png](Pic/Screenshot_18.png)<br>
 - Keterangan:<br>
   1.Disini kalian bisa menambahkan background, warna, dan border<br>
